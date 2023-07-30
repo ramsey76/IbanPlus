@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "IbanPlus.Importer.Func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7008",
+      "launchBrowser": false
+    }
+  }
+}

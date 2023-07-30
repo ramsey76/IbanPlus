@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Importer.Service", "IbanPlus.Importer.Service\IbanPlus.Importer.Service.csproj", "{01497D40-812B-4298-B771-87B8BE9BFA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Importer.Func", "IbanPlus.Importer.Func\IbanPlus.Importer.Func.csproj", "{F5704653-8881-4225-9567-4E9E7DA44937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Models", "IbanPlus.Models\IbanPlus.Models.csproj", "{F5827DDF-ED04-41C7-ADE5-D4754CEC4CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Storage.SQL", "IbanPlus.Storage.SQL\IbanPlus.Storage.SQL.csproj", "{12B6DF53-9BA3-45AB-8F93-DFA9E386D31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Repository", "IbanPlus.Repository\IbanPlus.Repository.csproj", "{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01497D40-812B-4298-B771-87B8BE9BFA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01497D40-812B-4298-B771-87B8BE9BFA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01497D40-812B-4298-B771-87B8BE9BFA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01497D40-812B-4298-B771-87B8BE9BFA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5704653-8881-4225-9567-4E9E7DA44937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5704653-8881-4225-9567-4E9E7DA44937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5704653-8881-4225-9567-4E9E7DA44937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5704653-8881-4225-9567-4E9E7DA44937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5827DDF-ED04-41C7-ADE5-D4754CEC4CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5827DDF-ED04-41C7-ADE5-D4754CEC4CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5827DDF-ED04-41C7-ADE5-D4754CEC4CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5827DDF-ED04-41C7-ADE5-D4754CEC4CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B6DF53-9BA3-45AB-8F93-DFA9E386D31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B6DF53-9BA3-45AB-8F93-DFA9E386D31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B6DF53-9BA3-45AB-8F93-DFA9E386D31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B6DF53-9BA3-45AB-8F93-DFA9E386D31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
