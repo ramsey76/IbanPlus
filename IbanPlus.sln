@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Storage.SQL", "Iba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Repository", "IbanPlus.Repository\IbanPlus.Repository.csproj", "{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanPlus.Core", "IbanPlus.Core\IbanPlus.Core.csproj", "{FC5FF72A-E239-4F8E-AD0C-03F1F860A002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2018CBE-A4DD-43E6-92C6-BE02B22EFBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5FF72A-E239-4F8E-AD0C-03F1F860A002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5FF72A-E239-4F8E-AD0C-03F1F860A002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5FF72A-E239-4F8E-AD0C-03F1F860A002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5FF72A-E239-4F8E-AD0C-03F1F860A002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
